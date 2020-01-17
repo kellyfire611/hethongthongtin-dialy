@@ -1,0 +1,679 @@
+id_0,iso,name_0,id_1,name_1,id_2,name_2,type_2,engtype_2,nl_name_2,varname_2
+"250",VNM,Vietnam,"1",Đà Nẵng,"1",Cẩm Lệ,Quận,Urban District,,Cam Le
+"250",VNM,Vietnam,"1",Đà Nẵng,"2",Hải Châu,Huyện,District,,Hai Chau
+"250",VNM,Vietnam,"1",Đà Nẵng,"3",Hoà Vang,Huyện,District,,Hoa Vang
+"250",VNM,Vietnam,"1",Đà Nẵng,"4",Liên Chiểu,Huyện,District,,Lien Chieu
+"250",VNM,Vietnam,"1",Đà Nẵng,"5",Ngũ Hành Sơn,Huyện,District,,Ngu Hanh Son
+"250",VNM,Vietnam,"1",Đà Nẵng,"6",Sơn Trà,Huyện,District,,Son Tra
+"250",VNM,Vietnam,"1",Đà Nẵng,"7",Thanh Khê,Huyện,District,,Thanh Khe
+"250",VNM,Vietnam,"2",Đồng Nai,"8",Định Quán,Huyện,District,,Dinh Quan
+"250",VNM,Vietnam,"2",Đồng Nai,"9",Bien Hoa,Than Pho,City,,
+"250",VNM,Vietnam,"2",Đồng Nai,"10",Cẩm Mỹ,Huyện,District,,
+"250",VNM,Vietnam,"2",Đồng Nai,"11",Long Khánh,Huyện,District,,Long Khanh
+"250",VNM,Vietnam,"2",Đồng Nai,"12",Long Thành,Huyện,District,,Long Thanh
+"250",VNM,Vietnam,"2",Đồng Nai,"13",Nhơn Trạch,Huyện,District,,Nhon Trach
+"250",VNM,Vietnam,"2",Đồng Nai,"14",Tân Phú,Huyện,District,,Tan Phu
+"250",VNM,Vietnam,"2",Đồng Nai,"15",Thống Nhất,Huyện,District,,Thong Nhat
+"250",VNM,Vietnam,"2",Đồng Nai,"16",Trảng Bom,Huyện,District,,Trang Bom
+"250",VNM,Vietnam,"2",Đồng Nai,"17",Vĩnh Cửu,Huyện,District,,Vinh Cuu
+"250",VNM,Vietnam,"2",Đồng Nai,"18",Xuân Lộc,Huyện,District,,Xuan Loc
+"250",VNM,Vietnam,"3",Đồng Tháp,"19",Cao Lãnh,Huyện,District,,Cao Lanh
+"250",VNM,Vietnam,"3",Đồng Tháp,"20",Cao Lanh,Huyện,District,,
+"250",VNM,Vietnam,"3",Đồng Tháp,"21",Châu Thành,Huyện,District,,Chau Thanh
+"250",VNM,Vietnam,"3",Đồng Tháp,"22",Hồng Ngự,Huyện,District,,Hong Ngu
+"250",VNM,Vietnam,"3",Đồng Tháp,"23",Lai Vung,Huyện,District,,Lai Vung
+"250",VNM,Vietnam,"3",Đồng Tháp,"24",Lấp Vò,Huyện,District,,Lap Vo
+"250",VNM,Vietnam,"3",Đồng Tháp,"25",Sa Đéc,Thi xa,Township,,Sa Dec
+"250",VNM,Vietnam,"3",Đồng Tháp,"26",Tân Hồng,Huyện,District,,Tan Hong
+"250",VNM,Vietnam,"3",Đồng Tháp,"27",Tam Nông,Huyện,District,,Tam Nong
+"250",VNM,Vietnam,"3",Đồng Tháp,"28",Tháp Mười,Huyện,District,,Thap Muoi
+"250",VNM,Vietnam,"3",Đồng Tháp,"29",Thanh Bình,Huyện,District,,Thanh Binh
+"250",VNM,Vietnam,"4",Đăk Nông,"30",Đăk Glong,Huyện,District,,
+"250",VNM,Vietnam,"4",Đăk Nông,"31",Đăk Mil,Huyện,District,,Dak Mil
+"250",VNM,Vietnam,"4",Đăk Nông,"32",Đăk R'Lấp,Huyện,District,,Dak Rlap
+"250",VNM,Vietnam,"4",Đăk Nông,"33",Cư Jút,Huyện,District,,Cu Jut
+"250",VNM,Vietnam,"4",Đăk Nông,"34",Dak Song,Huyện,District,,
+"250",VNM,Vietnam,"4",Đăk Nông,"35",Krông Nô,Huyện,District,,Krong No
+"250",VNM,Vietnam,"4",Đăk Nông,"36",Tuy Đức,Huyện,District,,
+"250",VNM,Vietnam,"5",Đắk Lắk,"37",Buôn Đôn,Huyện,District,,Buon Don
+"250",VNM,Vietnam,"5",Đắk Lắk,"38",Buon Ma Thuot,Than Pho,City,,
+"250",VNM,Vietnam,"5",Đắk Lắk,"39",Cư M'gar,Huyện,District,,Cu M'gar
+"250",VNM,Vietnam,"5",Đắk Lắk,"40",Ea H'leo,Huyện,District,,Ea H'leo
+"250",VNM,Vietnam,"5",Đắk Lắk,"41",Ea Kar,Huyện,District,,
+"250",VNM,Vietnam,"5",Đắk Lắk,"42",Ea Súp,Huyện,District,,Ea Sup
+"250",VNM,Vietnam,"5",Đắk Lắk,"43",Krông Ana,Huyện,District,,Krong Ana
+"250",VNM,Vietnam,"5",Đắk Lắk,"44",Krông Bông,Huyện,District,,Krong Bong
+"250",VNM,Vietnam,"5",Đắk Lắk,"45",Krông Buk,Huyện,District,,Krong Buk
+"250",VNM,Vietnam,"5",Đắk Lắk,"46",Krông Năng,Huyện,District,,Krong Nang
+"250",VNM,Vietnam,"5",Đắk Lắk,"47",Krông Pắk,Huyện,District,,Krong Pac |Krong Pak
+"250",VNM,Vietnam,"5",Đắk Lắk,"48",Lăk,Huyện,District,,Lak
+"250",VNM,Vietnam,"5",Đắk Lắk,"49",M'Đrăk,Huyện,District,,M'Drak
+"250",VNM,Vietnam,"6",Điện Biên,"50",Điện Biên Đông,Huyện,District,,Dien Bien Dong
+"250",VNM,Vietnam,"6",Điện Biên,"51",Điện Biên,Huyện,District,,Dien Bien
+"250",VNM,Vietnam,"6",Điện Biên,"52",Điên Biên Phủ,Than Pho,City,,Dien Bien Phu
+"250",VNM,Vietnam,"6",Điện Biên,"53",Mường Chà,Huyện,District,,Muong Cha
+"250",VNM,Vietnam,"6",Điện Biên,"54",Mường Lay,Thi xa,Township,,Muong Lay
+"250",VNM,Vietnam,"6",Điện Biên,"55",Mường Nhé,Huyện,District,,My Tho
+"250",VNM,Vietnam,"6",Điện Biên,"56",Tủa Chùa,Huyện,District,,Tua Chua
+"250",VNM,Vietnam,"6",Điện Biên,"57",Tuần Giáo,Huyện,District,,Tuan Giao
+"250",VNM,Vietnam,"7",An Giang,"58",An Phú,Huyện,District,,An Phu
+"250",VNM,Vietnam,"7",An Giang,"59",Châu Phú,Huyện,District,,Chau Phu
+"250",VNM,Vietnam,"7",An Giang,"60",Châu Thành,Huyện,District,,Chau Thanh
+"250",VNM,Vietnam,"7",An Giang,"61",Chợ Mới,Huyện,District,,Cho Moi
+"250",VNM,Vietnam,"7",An Giang,"62",Chau Doc,Thi xa,Township,,
+"250",VNM,Vietnam,"7",An Giang,"63",Long Xuyen Township,Than Pho,City,,Long Xuyen
+"250",VNM,Vietnam,"7",An Giang,"64",Phú Tân,Huyện,District,,Phu Tan
+"250",VNM,Vietnam,"7",An Giang,"65",Tân Châu,Huyện,District,,Tan Chau
+"250",VNM,Vietnam,"7",An Giang,"66",Tịnh Biên,Huyện,District,,Tinh Bien
+"250",VNM,Vietnam,"7",An Giang,"67",Thoại Sơn,Huyện,District,,Thoai Son
+"250",VNM,Vietnam,"7",An Giang,"68",Tri Tôn,Huyện,District,,Tri Ton
+"250",VNM,Vietnam,"8",Bà Rịa - Vũng Tàu,"69",Đất Đỏ,Huyện,District,,Dat Do
+"250",VNM,Vietnam,"8",Bà Rịa - Vũng Tàu,"70",Ba Ria,Thi xa,Township,,
+"250",VNM,Vietnam,"8",Bà Rịa - Vũng Tàu,"71",Côn Đảo,Huyện,District,,Con Dao
+"250",VNM,Vietnam,"8",Bà Rịa - Vũng Tàu,"72",Châu Đức,Huyện,District,,Chau Duc
+"250",VNM,Vietnam,"8",Bà Rịa - Vũng Tàu,"73",Long Điền,Huyện,District,,Long Dien
+"250",VNM,Vietnam,"8",Bà Rịa - Vũng Tàu,"74",Tân Thành,Huyện,District,,Tan Thanh
+"250",VNM,Vietnam,"8",Bà Rịa - Vũng Tàu,"75",Vũng Tàu,Huyện,District,,Vung Tau
+"250",VNM,Vietnam,"8",Bà Rịa - Vũng Tàu,"76",Xuyên Mộc,Huyện,District,,Xuyen Moc
+"250",VNM,Vietnam,"9",Bình Định,"77",An Lão,Huyện,District,,An Lao
+"250",VNM,Vietnam,"9",Bình Định,"78",An Nhơn,Huyện,District,,An Nhon
+"250",VNM,Vietnam,"9",Bình Định,"79",Hoài Ân,Huyện,District,,Hoai an
+"250",VNM,Vietnam,"9",Bình Định,"80",Hoài Nhơn,Huyện,District,,Hoai Nhon
+"250",VNM,Vietnam,"9",Bình Định,"81",Phù Cát,Huyện,District,,Phu Cat
+"250",VNM,Vietnam,"9",Bình Định,"82",Phù Mỹ,Huyện,District,,Phu My
+"250",VNM,Vietnam,"9",Bình Định,"83",Qui Nhơn,Than Pho,City,,Quy Nhon |Qui Nhon
+"250",VNM,Vietnam,"9",Bình Định,"84",Tây Sơn,Huyện,District,,Tay Son
+"250",VNM,Vietnam,"9",Bình Định,"85",Tuy Phước,Huyện,District,,Tuy Phuoc
+"250",VNM,Vietnam,"9",Bình Định,"86",Vĩnh Thạnh,Huyện,District,,Vinh Thanh
+"250",VNM,Vietnam,"9",Bình Định,"87",Van Canh,Huyện,District,,
+"250",VNM,Vietnam,"10",Bình Dương,"88",Bến Cát,Huyện,District,,Ben Cat
+"250",VNM,Vietnam,"10",Bình Dương,"89",Dau Tieng,Huyện,District,,
+"250",VNM,Vietnam,"10",Bình Dương,"90",Di An,Huyện,District,,
+"250",VNM,Vietnam,"10",Bình Dương,"91",Phú Giáo,Huyện,District,,Phu Giao
+"250",VNM,Vietnam,"10",Bình Dương,"92",Tân Uyên,Huyện,District,,Tan Uyen
+"250",VNM,Vietnam,"10",Bình Dương,"93",Thủ Dầu Một,Huyện,District,,Thu Dau Mot
+"250",VNM,Vietnam,"10",Bình Dương,"94",Thuận An,Huyện,District,,Thuan An
+"250",VNM,Vietnam,"11",Bình Phước,"95",Đồng Phù,Huyện,District,,Dong Phu
+"250",VNM,Vietnam,"11",Bình Phước,"96",Bình Long,Huyện,District,,Binh Long
+"250",VNM,Vietnam,"11",Bình Phước,"97",Bù Đăng,Huyện,District,,Bu Dang
+"250",VNM,Vietnam,"11",Bình Phước,"98",Bu Dop,Huyện,District,,
+"250",VNM,Vietnam,"11",Bình Phước,"99",Chơn Thành,Huyện,District,,Chon Thanh
+"250",VNM,Vietnam,"11",Bình Phước,"100",Dong Xoai,Thi xa,Township,,
+"250",VNM,Vietnam,"11",Bình Phước,"101",Lộc Ninh,Huyện,District,,Loc Ninh
+"250",VNM,Vietnam,"11",Bình Phước,"102",Phước Long,Huyện,District,,Phuoc Long
+"250",VNM,Vietnam,"12",Bình Thuận,"103",Đức Linh,Huyện,District,,Duc Linh
+"250",VNM,Vietnam,"12",Bình Thuận,"104",Bắc Bình,Huyện,District,,Bac Binh
+"250",VNM,Vietnam,"12",Bình Thuận,"105",Hàm Tân,Huyện,District,,Ham Tan
+"250",VNM,Vietnam,"12",Bình Thuận,"106",Hàm Thuận Bắc,Huyện,District,,Ham Thuan Bac
+"250",VNM,Vietnam,"12",Bình Thuận,"107",Hàm Thuận Nam,Huyện,District,,Ham Thuan Nam
+"250",VNM,Vietnam,"12",Bình Thuận,"108",La Gi,Huyện,District,,
+"250",VNM,Vietnam,"12",Bình Thuận,"109",Phan Thiết,Than Pho,City,,Phan Thiet
+"250",VNM,Vietnam,"12",Bình Thuận,"110",Phú Quý,Huyện,Island,,Phu Qui|Phu Quy
+"250",VNM,Vietnam,"12",Bình Thuận,"111",Tanh Linh,Huyện,District,,
+"250",VNM,Vietnam,"12",Bình Thuận,"112",Tuy Phong,Huyện,District,,
+"250",VNM,Vietnam,"13",Bạc Liêu,"113",Đông Hải,Huyện,District,,Dong Hai
+"250",VNM,Vietnam,"13",Bạc Liêu,"114",Bạc Liêu,Thi xa,Township,,Bac Lieu
+"250",VNM,Vietnam,"13",Bạc Liêu,"115",Giá Rai,Huyện,District,,Gia Rai
+"250",VNM,Vietnam,"13",Bạc Liêu,"116",Hồng Dân,Huyện,District,,Hong Dan
+"250",VNM,Vietnam,"13",Bạc Liêu,"117",Hòa Bình,Thi xa,Township,,Hoa Binh
+"250",VNM,Vietnam,"13",Bạc Liêu,"118",Phước Long,Huyện,District,,Phuoc Long
+"250",VNM,Vietnam,"13",Bạc Liêu,"119",Vĩnh Lợi,Huyện,District,,Vinh Loi
+"250",VNM,Vietnam,"14",Bắc Giang,"120",Bắc Giang,Thi xa,Township,,Bac Giang
+"250",VNM,Vietnam,"14",Bắc Giang,"121",Hiệp Hòa,Huyện,District,,Hiep Hoa
+"250",VNM,Vietnam,"14",Bắc Giang,"122",Lục Nam,Huyện,District,,Luc Nam
+"250",VNM,Vietnam,"14",Bắc Giang,"123",Lục Ngạn,Huyện,District,,Luc Ngan
+"250",VNM,Vietnam,"14",Bắc Giang,"124",Lạng Giang,Huyện,District,,Lang Giang
+"250",VNM,Vietnam,"14",Bắc Giang,"125",Sơn Động,Huyện,District,,Son Dong
+"250",VNM,Vietnam,"14",Bắc Giang,"126",Tân Yên,Huyện,District,,Tan Yen
+"250",VNM,Vietnam,"14",Bắc Giang,"127",Việt Yên,Huyện,District,,Viet Yen
+"250",VNM,Vietnam,"14",Bắc Giang,"128",Yên Dũng,Huyện,District,,Yen Dung
+"250",VNM,Vietnam,"14",Bắc Giang,"129",Yên Thế,Huyện,District,,Yen The
+"250",VNM,Vietnam,"15",Bắc Kạn,"130",Ba Bể,Huyện,District,,Ba Be
+"250",VNM,Vietnam,"15",Bắc Kạn,"131",Bac Kan,Thi xa,Township,,Bac Kan
+"250",VNM,Vietnam,"15",Bắc Kạn,"132",Bạch Thông,Huyện,District,,Bach Thong
+"250",VNM,Vietnam,"15",Bắc Kạn,"133",Chợ Đồn,Huyện,District,,Cho Don
+"250",VNM,Vietnam,"15",Bắc Kạn,"134",Chợ Mới,Huyện,District,,Cho Moi
+"250",VNM,Vietnam,"15",Bắc Kạn,"135",Na Ri,Huyện,District,,
+"250",VNM,Vietnam,"15",Bắc Kạn,"136",Ngân Sơn,Huyện,District,,Ngan Son
+"250",VNM,Vietnam,"15",Bắc Kạn,"137",Pác Nặm,Huyện,District,,Pac Nam
+"250",VNM,Vietnam,"16",Bắc Ninh,"138",Bắc Ninh,Thi xa,Township,,Bac Ninh
+"250",VNM,Vietnam,"16",Bắc Ninh,"139",Gia Bình,Huyện,District,,Gia Binh
+"250",VNM,Vietnam,"16",Bắc Ninh,"140",Lương Tài,Huyện,District,,Luong Tai
+"250",VNM,Vietnam,"16",Bắc Ninh,"141",Quế Võ,Huyện,District,,Que Vo
+"250",VNM,Vietnam,"16",Bắc Ninh,"142",Từ Sơn,Huyện,District,,Tu Son
+"250",VNM,Vietnam,"16",Bắc Ninh,"143",Thuận Thành,Huyện,District,,Thuan Thanh
+"250",VNM,Vietnam,"16",Bắc Ninh,"144",Tiên Du,Huyện,District,,Tien Du
+"250",VNM,Vietnam,"16",Bắc Ninh,"145",Yên Phong,Huyện,District,,Yen Phong
+"250",VNM,Vietnam,"17",Bến Tre,"146",Ba Tri,Huyện,District,,
+"250",VNM,Vietnam,"17",Bến Tre,"147",Bình Đại,Huyện,District,,Binh Dai
+"250",VNM,Vietnam,"17",Bến Tre,"148",Bến Tre,Thi xa,Township,,Ben Tre
+"250",VNM,Vietnam,"17",Bến Tre,"149",Châu Thành,Huyện,District,,Chau Thanh
+"250",VNM,Vietnam,"17",Bến Tre,"150",Chợ Lách,Huyện,District,,Cho Lach
+"250",VNM,Vietnam,"17",Bến Tre,"151",Giồng Trôm,Huyện,District,,Giong Trom
+"250",VNM,Vietnam,"17",Bến Tre,"152",Mỏ Cày,Huyện,District,,Mo Cay
+"250",VNM,Vietnam,"17",Bến Tre,"153",Thạnh Phú,Huyện,District,,Thanh Phu
+"250",VNM,Vietnam,"18",Cà Mau,"154",Đầm Dơi,Huyện,District,,Dam Doi
+"250",VNM,Vietnam,"18",Cà Mau,"155",Cà Mau,Than Pho,City,,Ca Mau
+"250",VNM,Vietnam,"18",Cà Mau,"156",Cái Nước,Huyện,District,,Cai Nuoc
+"250",VNM,Vietnam,"18",Cà Mau,"157",Năm Căn,Huyện,District,,Nam Can
+"250",VNM,Vietnam,"18",Cà Mau,"158",Ngọc Hiển,Huyện,District,,Ngoc Hien
+"250",VNM,Vietnam,"18",Cà Mau,"159",Phú Tân,Huyện,District,,Phu Tan
+"250",VNM,Vietnam,"18",Cà Mau,"160",Thới Bình,Huyện,District,,Thoi Binh
+"250",VNM,Vietnam,"18",Cà Mau,"161",Trần Văn Thời,Huyện,District,,Tran Van Thoi
+"250",VNM,Vietnam,"18",Cà Mau,"162",U Minh,Huyện,District,,U Minh
+"250",VNM,Vietnam,"19",Cao Bằng,"163",Bảo Lâm,Huyện,District,,Bao Lam
+"250",VNM,Vietnam,"19",Cao Bằng,"164",Bảo Lạc,Huyện,District,,Bao Lac
+"250",VNM,Vietnam,"19",Cao Bằng,"165",Cao Bằng,Thi xa,Township,,Cao Bang
+"250",VNM,Vietnam,"19",Cao Bằng,"166",Hà Quảng,Huyện,District,,Ha Quang
+"250",VNM,Vietnam,"19",Cao Bằng,"167",Hạ Lang,Huyện,District,,Ha Lang
+"250",VNM,Vietnam,"19",Cao Bằng,"168",Hoà An,Huyện,District,,Hoa An
+"250",VNM,Vietnam,"19",Cao Bằng,"169",Nguyên Bình,Huyện,District,,Nguyen Binh
+"250",VNM,Vietnam,"19",Cao Bằng,"170",Phục Hòa,Huyện,District,,Phuc Hoa
+"250",VNM,Vietnam,"19",Cao Bằng,"171",Quảng Yên,Huyện,District,,Quang Yen
+"250",VNM,Vietnam,"19",Cao Bằng,"172",Thông Nông,Huyện,District,,Thong Nong
+"250",VNM,Vietnam,"19",Cao Bằng,"173",Thạch An,Huyện,District,,Thach An
+"250",VNM,Vietnam,"19",Cao Bằng,"174",Trà Lĩnh,Huyện,District,,Tra Linh
+"250",VNM,Vietnam,"19",Cao Bằng,"175",Trùng Khánh,Huyện,District,,Trung Khanh
+"250",VNM,Vietnam,"20",Cần Thơ,"176",Ô Môn,Huyện,District,,o Mon
+"250",VNM,Vietnam,"20",Cần Thơ,"177",Bình Thủy,Huyện,District,,Binh Thuy
+"250",VNM,Vietnam,"20",Cần Thơ,"178",Cái Răng,Quận,Urban District,,Cai Rang
+"250",VNM,Vietnam,"20",Cần Thơ,"179",Cờ Đỏ,Huyện,District,,Co Do
+"250",VNM,Vietnam,"20",Cần Thơ,"180",Ninh Kiều,Quận,Urban District,,Ninh Kieu
+"250",VNM,Vietnam,"20",Cần Thơ,"181",Phong Điền,Huyện,District,,Phong Dien
+"250",VNM,Vietnam,"20",Cần Thơ,"182",Thốt Nốt,Huyện,District,,Thot Not
+"250",VNM,Vietnam,"20",Cần Thơ,"183",Vĩnh Thạnh,Huyện,District,,Vinh Thanh
+"250",VNM,Vietnam,"21",Gia Lai,"184",Đức Cơ,Huyện,District,,Duc Co
+"250",VNM,Vietnam,"21",Gia Lai,"185",Đắk Đoa,Huyện,District,,Dak Doa
+"250",VNM,Vietnam,"21",Gia Lai,"186",Đắk Pơ,Huyện,District,,Dak Po
+"250",VNM,Vietnam,"21",Gia Lai,"187",An Khê,Thi xa,Township,,An Khe
+"250",VNM,Vietnam,"21",Gia Lai,"188",Ayun Pa,Huyện,District,,
+"250",VNM,Vietnam,"21",Gia Lai,"189",Chư Păh,Huyện,District,,Chu Pah
+"250",VNM,Vietnam,"21",Gia Lai,"190",Chư Prông,Huyện,District,,Chu Prong
+"250",VNM,Vietnam,"21",Gia Lai,"191",Chư Sê,Huyện,District,,Chu Se
+"250",VNM,Vietnam,"21",Gia Lai,"192",Ia Grai,Huyện,District,,Ia Grai
+"250",VNM,Vietnam,"21",Gia Lai,"193",Ia Pa,Huyện,District,,
+"250",VNM,Vietnam,"21",Gia Lai,"194",K'Bang,Huyện,District,,Kbang
+"250",VNM,Vietnam,"21",Gia Lai,"195",Kông Chro,Huyện,District,,Kong Chro
+"250",VNM,Vietnam,"21",Gia Lai,"196",Krông Pa,Huyện,District,,Krong Pa
+"250",VNM,Vietnam,"21",Gia Lai,"197",Mang Yang,Huyện,District,,
+"250",VNM,Vietnam,"21",Gia Lai,"198",Phú Thiện,Huyện,District,,
+"250",VNM,Vietnam,"21",Gia Lai,"199",Pleiku,Than Pho,City,,
+"250",VNM,Vietnam,"22",Hà Giang,"200",Đồng Văn,Huyện,District,,Dong Van
+"250",VNM,Vietnam,"22",Hà Giang,"201",Bắc Mê,Huyện,District,,Bac Me
+"250",VNM,Vietnam,"22",Hà Giang,"202",Bắc Quang,Huyện,District,,Bac Quang
+"250",VNM,Vietnam,"22",Hà Giang,"203",Hà Giang,Thi xa,Township,,Ha Giang
+"250",VNM,Vietnam,"22",Hà Giang,"204",Hoàng Su Phì,Huyện,District,,Hoang Su Phi
+"250",VNM,Vietnam,"22",Hà Giang,"205",Mèo Vạc,Huyện,District,,Meo Vac
+"250",VNM,Vietnam,"22",Hà Giang,"206",Quang Bình,Huyện,District,,
+"250",VNM,Vietnam,"22",Hà Giang,"207",Quản Bạ,Huyện,District,,Quan Ba
+"250",VNM,Vietnam,"22",Hà Giang,"208",Vị Xuyên,Huyện,District,,Vi Xuyen
+"250",VNM,Vietnam,"22",Hà Giang,"209",Xín Mần,Huyện,District,,Xin Man
+"250",VNM,Vietnam,"22",Hà Giang,"210",Yên Minh,Huyện,District,,Yen Minh
+"250",VNM,Vietnam,"23",Hà Nội,"211",Ứng Hoà,Huyện,District,,Ung Hoa
+"250",VNM,Vietnam,"23",Hà Nội,"212",Đông Anh,Huyện,District,,Dong Anh
+"250",VNM,Vietnam,"23",Hà Nội,"213",Đống Đa,Quận,Urban District,,Dong Da
+"250",VNM,Vietnam,"23",Hà Nội,"214",Đan Phượng,Huyện,District,,Dan Phuong
+"250",VNM,Vietnam,"23",Hà Nội,"215",Ba Đình,Huyện,District,,Ba Dinh
+"250",VNM,Vietnam,"23",Hà Nội,"216",Ba Vi,Huyện,District,,
+"250",VNM,Vietnam,"23",Hà Nội,"217",Cầu Giấy,Huyện,District,,Cau Giay
+"250",VNM,Vietnam,"23",Hà Nội,"218",Chương Mỹ,Huyện,District,,Chuong My
+"250",VNM,Vietnam,"23",Hà Nội,"219",Gia Lâm,Huyện,District,,Gia Lam
+"250",VNM,Vietnam,"23",Hà Nội,"220",Hà Đông,Thi xa,Township,,Ha Dong
+"250",VNM,Vietnam,"23",Hà Nội,"221",Hai Bà Trưng,Huyện,District,,Hai Ba Trung
+"250",VNM,Vietnam,"23",Hà Nội,"222",Hoài Đức,Huyện,District,,Hoai Duc
+"250",VNM,Vietnam,"23",Hà Nội,"223",Hoàn Kiếm,Huyện,District,,Hoan Kiem
+"250",VNM,Vietnam,"23",Hà Nội,"224",Hoàng Mai,Quận,Urban District,,Hoang Mai
+"250",VNM,Vietnam,"23",Hà Nội,"225",Kim Bôi,Huyện,District,,Kim Boi
+"250",VNM,Vietnam,"23",Hà Nội,"226",Lương Sơn,Huyện,District,,Luong Son
+"250",VNM,Vietnam,"23",Hà Nội,"227",Long Biên,Quận,Urban District,,Long Bien
+"250",VNM,Vietnam,"23",Hà Nội,"228",Mỹ Đức,Huyện,District,,My Duc
+"250",VNM,Vietnam,"23",Hà Nội,"229",Mê Linh,Huyện,District,,Me Linh
+"250",VNM,Vietnam,"23",Hà Nội,"230",Phú Xuyên,Huyện,District,,Phu Xuyen
+"250",VNM,Vietnam,"23",Hà Nội,"231",Phúc Thọ,Huyện,District,,Phuc Tho
+"250",VNM,Vietnam,"23",Hà Nội,"232",Quốc Oai,Huyện,District,,Quoc Oai
+"250",VNM,Vietnam,"23",Hà Nội,"233",Sóc Sơn,Huyện,District,,Soc Son
+"250",VNM,Vietnam,"23",Hà Nội,"234",Sơn Tây,Thi xa,Township,,Son Tay
+"250",VNM,Vietnam,"23",Hà Nội,"235",Tây Hồ,Huyện,District,,Tay Ho
+"250",VNM,Vietnam,"23",Hà Nội,"236",Từ Liêm,Huyện,District,,Tu Liem
+"250",VNM,Vietnam,"23",Hà Nội,"237",Thường Tín,Huyện,District,,Thuong Tin
+"250",VNM,Vietnam,"23",Hà Nội,"238",Thanh Oai,Huyện,District,,
+"250",VNM,Vietnam,"23",Hà Nội,"239",Thanh Trì,Huyện,District,,Thanh Tri
+"250",VNM,Vietnam,"23",Hà Nội,"240",Thanh Xuân,Huyện,District,,Thanh Xuan
+"250",VNM,Vietnam,"23",Hà Nội,"241",Thạch Thất,Huyện,District,,Thach That
+"250",VNM,Vietnam,"24",Hà Nam,"242",Bình Lục,Huyện,District,,Binh Luc
+"250",VNM,Vietnam,"24",Hà Nam,"243",Duy Tiên,Huyện,District,,Duy Tien
+"250",VNM,Vietnam,"24",Hà Nam,"244",Kim Bảng,Huyện,District,,Kim Bang
+"250",VNM,Vietnam,"24",Hà Nam,"245",Lý Nhân,Huyện,District,,Ly Nhan
+"250",VNM,Vietnam,"24",Hà Nam,"246",Phủ Lý,Thi xa,Township,,Phu Ly
+"250",VNM,Vietnam,"24",Hà Nam,"247",Thanh Liêm,Huyện,District,,Thanh Liem
+"250",VNM,Vietnam,"25",Hà Tĩnh,"248",Đức Thọ,Huyện,District,,Duc Tho
+"250",VNM,Vietnam,"25",Hà Tĩnh,"249",Can Lộc,Huyện,District,,Can Loc
+"250",VNM,Vietnam,"25",Hà Tĩnh,"250",Cẩm Xuyên,Huyện,District,,Cam Xuyen
+"250",VNM,Vietnam,"25",Hà Tĩnh,"251",Hà Tĩnh,Thi xa,Township,,
+"250",VNM,Vietnam,"25",Hà Tĩnh,"252",Hồng Lĩnh,Thi xa,Township,,Hong Linh
+"250",VNM,Vietnam,"25",Hà Tĩnh,"253",Hương Khê,Huyện,District,,Huong Khe
+"250",VNM,Vietnam,"25",Hà Tĩnh,"254",Hương Sơn,Huyện,District,,Huong Son
+"250",VNM,Vietnam,"25",Hà Tĩnh,"255",Kỳ Anh,Huyện,District,,Ky Anh
+"250",VNM,Vietnam,"25",Hà Tĩnh,"256",Nghi Xuân,Huyện,District,,Nghi Xuan
+"250",VNM,Vietnam,"25",Hà Tĩnh,"257",Thạch Hà,Huyện,District,,Thach Ha
+"250",VNM,Vietnam,"25",Hà Tĩnh,"258",Vũ Quang,Huyện,District,,Vu Quang
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"259",Bình Chánh,Huyện,District,,Binh Chanh
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"260",Bình Thạnh,Quận,Urban District,,Binh Thanh
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"261",Binh Tan,Quận,Urban District,,
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"262",Củ Chi,Huyện,District,,Cu Chi
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"263",Cần Giờ,Huyện,District,,Can Gio
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"264",Gò Vấp,Quận,Urban District,,Go Vap
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"265",Hóc Môn,Huyện,District,,Hoc Mon
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"266",Nhà Bè,Huyện,District,,Nha Be
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"267",Phú Nhuận,Quận,Urban District,,Phu Nhuan
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"268",Quận 10,Quận,Urban District,,"10"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"269",Quận 11,Quận,Urban District,,"11"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"270",Quận 12,Quận,Urban District,,"12"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"271",Quận 1,Quận,Urban District,,"1"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"272",Quận 2,Quận,Urban District,,"2"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"273",Quận 3,Quận,Urban District,,"3"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"274",Quận 4,Quận,Urban District,,"4"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"275",Quận 5,Quận,Urban District,,"5"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"276",Quận 6,Quận,Urban District,,"6"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"277",Quận 7,Quận,Urban District,,"7"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"278",Quận 8,Quận,Urban District,,"8"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"279",Quận 9,Quận,Urban District,,"9"
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"280",Tân Bình,Quận,Urban District,,Tan Binh
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"281",Tan Phu,Quận,Urban District,,
+"250",VNM,Vietnam,"26",Hồ Chí Minh city,"282",Thủ Đức,Quận,Urban District,,Thu Duc
+"250",VNM,Vietnam,"27",Hòa Bình,"283",Đà Bắc,Huyện,District,,Đà Rắc| Da Bac
+"250",VNM,Vietnam,"27",Hòa Bình,"284",Cao Phong,Huyện,District,,
+"250",VNM,Vietnam,"27",Hòa Bình,"285",Hòa Bình,Thi xa,Township,,Hoa Binh
+"250",VNM,Vietnam,"27",Hòa Bình,"286",Kỳ Sơn,Huyện,District,,Ky Son
+"250",VNM,Vietnam,"27",Hòa Bình,"287",Kim Bôi,Huyện,District,,Kim Boi
+"250",VNM,Vietnam,"27",Hòa Bình,"288",Lương Sơn,Huyện,District,,Luong Son
+"250",VNM,Vietnam,"27",Hòa Bình,"289",Lạc Sơn,Huyện,District,,Lac Son
+"250",VNM,Vietnam,"27",Hòa Bình,"290",Lạc Thuỷ,Huyện,District,,Lac Thuy
+"250",VNM,Vietnam,"27",Hòa Bình,"291",Mai Châu,Huyện,District,,Mai Chau
+"250",VNM,Vietnam,"27",Hòa Bình,"292",Tân Lạc,Huyện,District,,Tan Lac
+"250",VNM,Vietnam,"27",Hòa Bình,"293",Yên Thuỷ,Huyện,District,,Yen Thuy
+"250",VNM,Vietnam,"28",Hưng Yên,"294",Ân Thi,Huyện,District,,
+"250",VNM,Vietnam,"28",Hưng Yên,"295",Hưng Yên,Thi xa,Township,,Hung Yen
+"250",VNM,Vietnam,"28",Hưng Yên,"296",Khoái Châu,Huyện,District,,Khoai Chau
+"250",VNM,Vietnam,"28",Hưng Yên,"297",Kim Động,Huyện,District,,Kim Dong
+"250",VNM,Vietnam,"28",Hưng Yên,"298",Mỹ Hào,Huyện,District,,My Hao
+"250",VNM,Vietnam,"28",Hưng Yên,"299",Phù Cừ,Huyện,District,,Phu Cu
+"250",VNM,Vietnam,"28",Hưng Yên,"300",Tiên Lữ,Huyện,District,,Tien Lu
+"250",VNM,Vietnam,"28",Hưng Yên,"301",Văn Giang,Huyện,District,,Van Giang
+"250",VNM,Vietnam,"28",Hưng Yên,"302",Văn Lâm,Huyện,District,,Van Lam
+"250",VNM,Vietnam,"28",Hưng Yên,"303",Yên Mỹ,Huyện,District,,Yen My
+"250",VNM,Vietnam,"29",Hải Dương,"304",Bình Giang,Huyện,District,,Binh Giang
+"250",VNM,Vietnam,"29",Hải Dương,"305",Cẩm Giàng,Huyện,District,,Cam Giang
+"250",VNM,Vietnam,"29",Hải Dương,"306",Chí Linh,Huyện,District,,Chi Linh
+"250",VNM,Vietnam,"29",Hải Dương,"307",Gia Lộc,Huyện,District,,Gia Loc
+"250",VNM,Vietnam,"29",Hải Dương,"308",Hải Dương,Than Pho,City,,Hai Duong
+"250",VNM,Vietnam,"29",Hải Dương,"309",Kim Thành,Huyện,District,,Kim Thanh
+"250",VNM,Vietnam,"29",Hải Dương,"310",Kinh Môn,Huyện,District,,Kinh Mon
+"250",VNM,Vietnam,"29",Hải Dương,"311",Nam Sách,Huyện,District,,Nam Sach
+"250",VNM,Vietnam,"29",Hải Dương,"312",Ninh Giang,Huyện,District,,Ninh Giang
+"250",VNM,Vietnam,"29",Hải Dương,"313",Tứ Kỳ,Huyện,District,,Tu Ky
+"250",VNM,Vietnam,"29",Hải Dương,"314",Thanh Hà,Huyện,District,,Thanh Ha
+"250",VNM,Vietnam,"29",Hải Dương,"315",Thanh Miện,Huyện,District,,Thanh Mien
+"250",VNM,Vietnam,"30",Hải Phòng,"316",Đồ Sơn,Thi xa,Township,,Do Son
+"250",VNM,Vietnam,"30",Hải Phòng,"317",An Dương,Huyện,District,,An Duong
+"250",VNM,Vietnam,"30",Hải Phòng,"318",An Lão,Huyện,District,,An Lao
+"250",VNM,Vietnam,"30",Hải Phòng,"319",Bach Long Vi,Island,Island,,
+"250",VNM,Vietnam,"30",Hải Phòng,"320",Cát Hải,Huyện,District,,Cat Hai
+"250",VNM,Vietnam,"30",Hải Phòng,"321",Hồng Bàng,Huyện,District,,Hong Bang
+"250",VNM,Vietnam,"30",Hải Phòng,"322",Hải An,Quận,Urban District,,Hai An
+"250",VNM,Vietnam,"30",Hải Phòng,"323",Kiến An,Huyện,District,,Kien An
+"250",VNM,Vietnam,"30",Hải Phòng,"324",Kiến Thụy,Huyện,District,,Kien Thuy
+"250",VNM,Vietnam,"30",Hải Phòng,"325",Lê Chân,Huyện,District,,Le Chan
+"250",VNM,Vietnam,"30",Hải Phòng,"326",Ngô Quyền,Huyện,District,,Ngo Quyen
+"250",VNM,Vietnam,"30",Hải Phòng,"327",Thủy Nguyên,Huyện,District,,Thuy Nguyen
+"250",VNM,Vietnam,"30",Hải Phòng,"328",Tiên Lãng,Huyện,District,,Tien Lang
+"250",VNM,Vietnam,"30",Hải Phòng,"329",Vĩnh Bảo,Huyện,District,,Vinh Bao
+"250",VNM,Vietnam,"31",Hậu Giang,"330",Châu Thành A,Huyện,District,,Chau Thanh A
+"250",VNM,Vietnam,"31",Hậu Giang,"331",Châu Thành,Huyện,District,,Chau Thanh
+"250",VNM,Vietnam,"31",Hậu Giang,"332",Long Mỹ,Huyện,District,,
+"250",VNM,Vietnam,"31",Hậu Giang,"333",Phụng Hiệp,Huyện,District,,Phung Hiep
+"250",VNM,Vietnam,"31",Hậu Giang,"334",Vị Thanh,Huyện,District,,Vi Thuy
+"250",VNM,Vietnam,"31",Hậu Giang,"335",Vị Thuỷ,Huyện,District,,Vi Thuy
+"250",VNM,Vietnam,"32",Khánh Hòa,"336",Cam Lâm,Huyện,District,,
+"250",VNM,Vietnam,"32",Khánh Hòa,"337",Cam Ranh,Thi xa,Township,,
+"250",VNM,Vietnam,"32",Khánh Hòa,"338",Diên Khánh,Huyện,District,,Dien Khanh
+"250",VNM,Vietnam,"32",Khánh Hòa,"339",Khánh Sơn,Huyện,District,,Khanh Son
+"250",VNM,Vietnam,"32",Khánh Hòa,"340",Khánh Vĩnh,Huyện,District,,Khanh Vinh
+"250",VNM,Vietnam,"32",Khánh Hòa,"341",Nha Trang,Than Pho,City,,
+"250",VNM,Vietnam,"32",Khánh Hòa,"342",Ninh Hòa,Huyện,District,,Ninh Hoa
+"250",VNM,Vietnam,"32",Khánh Hòa,"343",Van Ninh,Huyện,District,,Van Ninh
+"250",VNM,Vietnam,"33",Kiên Giang,"344",An Biên,Huyện,District,,An Bien
+"250",VNM,Vietnam,"33",Kiên Giang,"345",An Minh,Huyện,District,,
+"250",VNM,Vietnam,"33",Kiên Giang,"346",Châu Thành,Huyện,District,,Chau Thanh
+"250",VNM,Vietnam,"33",Kiên Giang,"347",Gò Quao,Huyện,District,,Go Quao
+"250",VNM,Vietnam,"33",Kiên Giang,"348",Giồng Riềng,Huyện,District,,Giong Rieng
+"250",VNM,Vietnam,"33",Kiên Giang,"349",Hà Tiên,Thi xa,Township,,Ha Tien
+"250",VNM,Vietnam,"33",Kiên Giang,"350",Hòn Đất,Huyện,District,,Hon Dat
+"250",VNM,Vietnam,"33",Kiên Giang,"351",Kiên Hải,Huyện,District,,Kien Hai
+"250",VNM,Vietnam,"33",Kiên Giang,"352",Kiên Lương,Huyện,District,,Kien Luong
+"250",VNM,Vietnam,"33",Kiên Giang,"353",Phú Quốc,Huyện,District,,Phu Quoc
+"250",VNM,Vietnam,"33",Kiên Giang,"354",Rạch Giá,Thi xa,Township,,Rach Gia
+"250",VNM,Vietnam,"33",Kiên Giang,"355",Tân Hiệp,Huyện,District,,Tan Hiep
+"250",VNM,Vietnam,"33",Kiên Giang,"356",U Minh Thượng,Huyện,District,,
+"250",VNM,Vietnam,"33",Kiên Giang,"357",Vĩnh Thuận,Huyện,District,,Vinh Thuan
+"250",VNM,Vietnam,"34",Kon Tum,"358",Đăk Glei,Huyện,District,,Dak Glei
+"250",VNM,Vietnam,"34",Kon Tum,"359",Đăk Hà,Huyện,District,,Dak Ha
+"250",VNM,Vietnam,"34",Kon Tum,"360",Đăk Tô,Huyện,District,,Dak To
+"250",VNM,Vietnam,"34",Kon Tum,"361",Kon Plông,Huyện,District,,Kon Plong
+"250",VNM,Vietnam,"34",Kon Tum,"362",Kon Rẫy,Huyện,District,,Kon Ray
+"250",VNM,Vietnam,"34",Kon Tum,"363",Kon Tum,Thi xa,Township,,
+"250",VNM,Vietnam,"34",Kon Tum,"364",Ngọc Hồi,Huyện,District,,Ngoc Hoi
+"250",VNM,Vietnam,"34",Kon Tum,"365",Sa Thầy,Huyện,District,,Sa Thay
+"250",VNM,Vietnam,"34",Kon Tum,"366",Tu Mơ Rông,Huyện,District,,
+"250",VNM,Vietnam,"35",Lào Cai,"367",Bát Xát,Huyện,District,,Bat Xat
+"250",VNM,Vietnam,"35",Lào Cai,"368",Bắc Hà,Huyện,District,,Bac Ha
+"250",VNM,Vietnam,"35",Lào Cai,"369",Bảo Thắng,Huyện,District,,Bao Thang
+"250",VNM,Vietnam,"35",Lào Cai,"370",Bảo Yên,Huyện,District,,Bao Yen
+"250",VNM,Vietnam,"35",Lào Cai,"371",Lào Cai,Than Pho,City,,Lao Cai
+"250",VNM,Vietnam,"35",Lào Cai,"372",Mường Khương,Huyện,District,,Muong Khuong
+"250",VNM,Vietnam,"35",Lào Cai,"373",Sa Pa,Huyện,District,,
+"250",VNM,Vietnam,"35",Lào Cai,"374",Si Ma Cai,Huyện,District,,
+"250",VNM,Vietnam,"35",Lào Cai,"375",Văn Bàn,Huyện,District,,Van Ban
+"250",VNM,Vietnam,"36",Lâm Đồng,"376",Đà Lạt,Than Pho,City,,Da Lat
+"250",VNM,Vietnam,"36",Lâm Đồng,"377",Đức Trọng,Huyện,District,,Duc Trong
+"250",VNM,Vietnam,"36",Lâm Đồng,"378",Đơn Dương,Huyện,District,,Don Duong
+"250",VNM,Vietnam,"36",Lâm Đồng,"379",Đam Rông,Huyện,District,,Dam Rong
+"250",VNM,Vietnam,"36",Lâm Đồng,"380",Đạ Huoai,Huyện,District,,Da Huoai
+"250",VNM,Vietnam,"36",Lâm Đồng,"381",Đạ Tẻh,Huyện,District,,Da Teh
+"250",VNM,Vietnam,"36",Lâm Đồng,"382",Bảo Lâm,Huyện,District,,Bao Lam
+"250",VNM,Vietnam,"36",Lâm Đồng,"383",Bảo Lộc,Thi xa,Township,,Bao Loc
+"250",VNM,Vietnam,"36",Lâm Đồng,"384",Cát Tiên,Huyện,District,,Cat Tien
+"250",VNM,Vietnam,"36",Lâm Đồng,"385",Di Linh,Huyện,District,,
+"250",VNM,Vietnam,"36",Lâm Đồng,"386",Lâm Hà,Huyện,District,,Lam Ha
+"250",VNM,Vietnam,"36",Lâm Đồng,"387",Lạc Dương,Huyện,District,,Lac Duong
+"250",VNM,Vietnam,"37",Lai Châu,"388",Lai Châu,Thi xa,Township,,Lai Chau
+"250",VNM,Vietnam,"37",Lai Châu,"389",Mường Tè,Huyện,District,,Muong Te
+"250",VNM,Vietnam,"37",Lai Châu,"390",Phong Thổ,Huyện,District,,Phong Tho
+"250",VNM,Vietnam,"37",Lai Châu,"391",Sìn Hồ,Huyện,District,,Sin Ho
+"250",VNM,Vietnam,"37",Lai Châu,"392",Tam Đường,Huyện,District,,Tam Duong
+"250",VNM,Vietnam,"37",Lai Châu,"393",Thanh Uyen,Huyện,District,,
+"250",VNM,Vietnam,"38",Lạng Sơn,"394",Đình Lập,Huyện,District,,Dinh Lap
+"250",VNM,Vietnam,"38",Lạng Sơn,"395",Bình Gia,Huyện,District,,Binh Gia
+"250",VNM,Vietnam,"38",Lạng Sơn,"396",Bắc Sơn,Huyện,District,,Bac Son
+"250",VNM,Vietnam,"38",Lạng Sơn,"397",Cao Lộc,Huyện,District,,Cao Loc
+"250",VNM,Vietnam,"38",Lạng Sơn,"398",Chi Lăng,Huyện,District,,Chi Lang
+"250",VNM,Vietnam,"38",Lạng Sơn,"399",Hữu Lũng,Huyện,District,,Huu Lung
+"250",VNM,Vietnam,"38",Lạng Sơn,"400",Lộc Bình,Huyện,District,,Loc Binh
+"250",VNM,Vietnam,"38",Lạng Sơn,"401",Lạng Sơn,Than Pho,City,,Langson
+"250",VNM,Vietnam,"38",Lạng Sơn,"402",Tràng Định,Huyện,District,,Trang Dinh
+"250",VNM,Vietnam,"38",Lạng Sơn,"403",Vãn Lãng,Huyện,District,,Van Lang
+"250",VNM,Vietnam,"38",Lạng Sơn,"404",Văn Quan,Huyện,District,,Van Quan
+"250",VNM,Vietnam,"39",Long An,"405",Đức Hòa,Huyện,District,,Duc Hoa
+"250",VNM,Vietnam,"39",Long An,"406",Đức Huệ,Huyện,District,,Duc Hue
+"250",VNM,Vietnam,"39",Long An,"407",Bến Lức,Huyện,District,,Ben Luc
+"250",VNM,Vietnam,"39",Long An,"408",Cần Đước,Huyện,District,,Can Duoc
+"250",VNM,Vietnam,"39",Long An,"409",Cần Giuộc,Huyện,District,,Can Giuoc
+"250",VNM,Vietnam,"39",Long An,"410",Châu Thành,Huyện,District,,Chau Thanh
+"250",VNM,Vietnam,"39",Long An,"411",Mộc Hóa,Huyện,District,,Moc Hoa
+"250",VNM,Vietnam,"39",Long An,"412",Tân An,Thi xa,Township,,Tan An
+"250",VNM,Vietnam,"39",Long An,"413",Tân Hưng,Huyện,District,,Tan Hung
+"250",VNM,Vietnam,"39",Long An,"414",Tân Thành,Huyện,District,,Tan Thanh
+"250",VNM,Vietnam,"39",Long An,"415",Tân Trụ,Huyện,District,,Tan Tru
+"250",VNM,Vietnam,"39",Long An,"416",Thủ Thừa,Huyện,District,,Thu Thua
+"250",VNM,Vietnam,"39",Long An,"417",Thanh Hóa,Huyện,District,,Thanh Hoa
+"250",VNM,Vietnam,"39",Long An,"418",Vĩnh Hưng,Huyện,District,,Vinh Hung
+"250",VNM,Vietnam,"40",Nam Định,"419",Ý Yên,Huyện,District,,Y Yen
+"250",VNM,Vietnam,"40",Nam Định,"420",Giao Thủy,Huyện,District,,Giao Thuy
+"250",VNM,Vietnam,"40",Nam Định,"421",Hải Hậu,Huyện,District,,Hai Hau
+"250",VNM,Vietnam,"40",Nam Định,"422",Mỹ Lộc,Huyện,District,,My Loc
+"250",VNM,Vietnam,"40",Nam Định,"423",Nam Định,Huyện,District,,Nam Dinh
+"250",VNM,Vietnam,"40",Nam Định,"424",Nam Trực,Huyện,District,,Nam Truc
+"250",VNM,Vietnam,"40",Nam Định,"425",Nghĩa Hưng,Huyện,District,,Nghia Hung
+"250",VNM,Vietnam,"40",Nam Định,"426",Trực Ninh,Huyện,District,,Truc Ninh
+"250",VNM,Vietnam,"40",Nam Định,"427",Vụ Bản,Huyện,District,,Vu Ban
+"250",VNM,Vietnam,"40",Nam Định,"428",Xuân Trường,Huyện,District,,Xuan Truong
+"250",VNM,Vietnam,"41",Nghệ An,"429",Đô Lương,Huyện,District,,Do Luong
+"250",VNM,Vietnam,"41",Nghệ An,"430",Anh Sơn,Huyện,District,,Anh Son
+"250",VNM,Vietnam,"41",Nghệ An,"431",Cửa Lò,Thi xa,Township,,Cua Lo
+"250",VNM,Vietnam,"41",Nghệ An,"432",Con Cuông,Huyện,District,,Con Cuong
+"250",VNM,Vietnam,"41",Nghệ An,"433",Diễn Châu,Huyện,District,,Dien Chau
+"250",VNM,Vietnam,"41",Nghệ An,"434",Hưng Nguyên,Huyện,District,,Hung Nguyen
+"250",VNM,Vietnam,"41",Nghệ An,"435",Kỳ Sơn,Huyện,District,,Ky Son
+"250",VNM,Vietnam,"41",Nghệ An,"436",Nam Đàn,Huyện,District,,Nam Dan
+"250",VNM,Vietnam,"41",Nghệ An,"437",Nghĩa Đàn,Huyện,District,,Nghia Dan
+"250",VNM,Vietnam,"41",Nghệ An,"438",Nghi Lộc,Huyện,District,,Nghi Loc
+"250",VNM,Vietnam,"41",Nghệ An,"439",Quỳ Châu,Huyện,District,,Quy Chau
+"250",VNM,Vietnam,"41",Nghệ An,"440",Quỳ Hợp,Huyện,District,,Quy Hop
+"250",VNM,Vietnam,"41",Nghệ An,"441",Quỳnh Lưu,Huyện,District,,Quynh Luu
+"250",VNM,Vietnam,"41",Nghệ An,"442",Quế Phong,Huyện,District,,Que Phong
+"250",VNM,Vietnam,"41",Nghệ An,"443",Tân Kỳ,Huyện,District,,Tan Ky
+"250",VNM,Vietnam,"41",Nghệ An,"444",Tương Dương,Huyện,District,,Tuong Duong
+"250",VNM,Vietnam,"41",Nghệ An,"445",Thái Hòa,Huyện,District,,
+"250",VNM,Vietnam,"41",Nghệ An,"446",Thanh Chương,Huyện,District,,Thanh Chuong
+"250",VNM,Vietnam,"41",Nghệ An,"447",Vinh,Than Pho,City,,
+"250",VNM,Vietnam,"41",Nghệ An,"448",Yên Thành,Huyện,District,,Yen Thanh
+"250",VNM,Vietnam,"42",Ninh Bình,"449",Gia Viễn,Huyện,District,,Gia Vien
+"250",VNM,Vietnam,"42",Ninh Bình,"450",Hoa Lư,Huyện,District,,Hoa Lu
+"250",VNM,Vietnam,"42",Ninh Bình,"451",Kim Sơn,Huyện,District,,Kim Son
+"250",VNM,Vietnam,"42",Ninh Bình,"452",Nho Quan,Huyện,District,,Nho Quan
+"250",VNM,Vietnam,"42",Ninh Bình,"453",Ninh Bình,Thi xa,Township,,
+"250",VNM,Vietnam,"42",Ninh Bình,"454",Tam Điệp,Thi xa,Township,,Tam Diep
+"250",VNM,Vietnam,"42",Ninh Bình,"455",Yên Khánh,Huyện,District,,Yen Khanh
+"250",VNM,Vietnam,"42",Ninh Bình,"456",Yên Mô,Huyện,District,,Yen Mo
+"250",VNM,Vietnam,"43",Ninh Thuận,"457",Bác Ái,Huyện,District,,Bac Ai
+"250",VNM,Vietnam,"43",Ninh Thuận,"458",Ninh Hải,Huyện,District,,Ninh Hai
+"250",VNM,Vietnam,"43",Ninh Thuận,"459",Ninh Phước,Huyện,District,,Ninh Phuoc
+"250",VNM,Vietnam,"43",Ninh Thuận,"460",Ninh Sơn,Huyện,District,,Ninh Son
+"250",VNM,Vietnam,"43",Ninh Thuận,"461",Phan Rang-Tháp Chàm,Thi xa,Township,,Phan Rang-Thap Cham
+"250",VNM,Vietnam,"44",Phú Thọ,"462",Đoan Hùng,Huyện,District,,Doan Hung
+"250",VNM,Vietnam,"44",Phú Thọ,"463",Cẩm Khê,Huyện,District,,Cam Khe
+"250",VNM,Vietnam,"44",Phú Thọ,"464",Hạ Hoà,Huyện,District,,Ha Hoa
+"250",VNM,Vietnam,"44",Phú Thọ,"465",Lâm Thao,Huyện,District,,Lam Thao
+"250",VNM,Vietnam,"44",Phú Thọ,"466",Phú Ninh,Huyện,District,,Phu Ninh
+"250",VNM,Vietnam,"44",Phú Thọ,"467",Phú Thọ,Thi xa,Township,,Phu Tho
+"250",VNM,Vietnam,"44",Phú Thọ,"468",Tam Nông,Huyện,District,,Tam Nong
+"250",VNM,Vietnam,"44",Phú Thọ,"469",Thanh Ba,Huyện,District,,Thanh Ba
+"250",VNM,Vietnam,"44",Phú Thọ,"470",Thanh Sơn,Huyện,District,,Thanh Son
+"250",VNM,Vietnam,"44",Phú Thọ,"471",Thanh Thuỷ,Huyện,District,,Thanh Thuy
+"250",VNM,Vietnam,"44",Phú Thọ,"472",Việt Trì,Than Pho,City,,Viet Tri
+"250",VNM,Vietnam,"44",Phú Thọ,"473",Yên Lập,Huyện,District,,Yen Lap
+"250",VNM,Vietnam,"45",Phú Yên,"474",Đông Hòa,Huyện,District,,
+"250",VNM,Vietnam,"45",Phú Yên,"475",Đồng Xuân,Huyện,District,,Dong Xuan
+"250",VNM,Vietnam,"45",Phú Yên,"476",Phú Hòa,Huyện,District,,Phu Hoa
+"250",VNM,Vietnam,"45",Phú Yên,"477",Sông Cầu,Huyện,District,,Song Cau
+"250",VNM,Vietnam,"45",Phú Yên,"478",Sông Hinh,Huyện,District,,Song Hinh
+"250",VNM,Vietnam,"45",Phú Yên,"479",Sơn Hòa,Huyện,District,,Son Hoa
+"250",VNM,Vietnam,"45",Phú Yên,"480",Tuy An,Huyện,District,,
+"250",VNM,Vietnam,"45",Phú Yên,"481",Tuy Hoa,Huyện,District,,
+"250",VNM,Vietnam,"45",Phú Yên,"482",Tuy Hoa,Thi xa,Township,,
+"250",VNM,Vietnam,"46",Quảng Bình,"483",Đồng Hới,Than Pho,City,,Dong Hoi
+"250",VNM,Vietnam,"46",Quảng Bình,"484",Bố Trạch,Huyện,District,,Bo Trach
+"250",VNM,Vietnam,"46",Quảng Bình,"485",Lệ Thủy,Huyện,District,,Le Thuy
+"250",VNM,Vietnam,"46",Quảng Bình,"486",Minh Hóa,Huyện,District,,Minh Hoa
+"250",VNM,Vietnam,"46",Quảng Bình,"487",Quảng Ninh,Huyện,District,,Quang Ninh
+"250",VNM,Vietnam,"46",Quảng Bình,"488",Quảng Trạch,Huyện,District,,Quang Trach
+"250",VNM,Vietnam,"46",Quảng Bình,"489",Tuyen Hoa,Huyện,District,,Tuyen Hoa
+"250",VNM,Vietnam,"47",Quảng Nam,"490",Đông Giang,Huyện,District,,Dong Giang
+"250",VNM,Vietnam,"47",Quảng Nam,"491",Đại Lộc,Huyện,District,,Dai Loc
+"250",VNM,Vietnam,"47",Quảng Nam,"492",Điện Bàn,Huyện,District,,Dien Ban
+"250",VNM,Vietnam,"47",Quảng Nam,"493",Bắc Trà My,Huyện,District,,Bac Tra My
+"250",VNM,Vietnam,"47",Quảng Nam,"494",Duy Xuyên,Huyện,District,,Duy Xuyen
+"250",VNM,Vietnam,"47",Quảng Nam,"495",Hội An,Thi xa,Township,,Hoi An
+"250",VNM,Vietnam,"47",Quảng Nam,"496",Hiệp Đức,Huyện,District,,Hiep Duc
+"250",VNM,Vietnam,"47",Quảng Nam,"497",Nam Giang,Huyện,District,,Nam Giang
+"250",VNM,Vietnam,"47",Quảng Nam,"498",Nam Trà My,Huyện,District,,Nam Tra My
+"250",VNM,Vietnam,"47",Quảng Nam,"499",Núi Thành,Huyện,District,,Nui Thanh
+"250",VNM,Vietnam,"47",Quảng Nam,"500",Phước Sơn,Huyện,District,,Phuoc Son
+"250",VNM,Vietnam,"47",Quảng Nam,"501",Phú Ninh,Huyện,District,,Phu Ninh
+"250",VNM,Vietnam,"47",Quảng Nam,"502",Quế Sơn,Huyện,District,,Que Son
+"250",VNM,Vietnam,"47",Quảng Nam,"503",Tam Kỳ,Thi xa,Township,,Tam Ki
+"250",VNM,Vietnam,"47",Quảng Nam,"504",Tay Giang,Huyện,District,,
+"250",VNM,Vietnam,"47",Quảng Nam,"505",Thăng Bình,Huyện,District,,Thang Binh
+"250",VNM,Vietnam,"47",Quảng Nam,"506",Tiên Phước,Huyện,District,,Tien Phuoc
+"250",VNM,Vietnam,"48",Quảng Ngãi,"507",Đức Phổ,Huyện,District,,Duc Pho
+"250",VNM,Vietnam,"48",Quảng Ngãi,"508",Ba Tơ,Huyện,District,,Ba To
+"250",VNM,Vietnam,"48",Quảng Ngãi,"509",Bình Sơn,Huyện,District,,Binh Son
+"250",VNM,Vietnam,"48",Quảng Ngãi,"510",Lý Sơn,Huyện,District,,Ly Son
+"250",VNM,Vietnam,"48",Quảng Ngãi,"511",Mộ Đức,Huyện,District,,Mo Duc
+"250",VNM,Vietnam,"48",Quảng Ngãi,"512",Minh Long,Huyện,District,,
+"250",VNM,Vietnam,"48",Quảng Ngãi,"513",Nghĩa Hành,Huyện,District,,Nghia Hanh
+"250",VNM,Vietnam,"48",Quảng Ngãi,"514",Quảng Ngãi,Thi xa,Township,,Quang Ngai
+"250",VNM,Vietnam,"48",Quảng Ngãi,"515",Sơn Hà,Huyện,District,,Son Ha
+"250",VNM,Vietnam,"48",Quảng Ngãi,"516",Sơn Tây,Huyện,District,,Son Tay
+"250",VNM,Vietnam,"48",Quảng Ngãi,"517",Sơn Tịnh,Huyện,District,,Son Tinh
+"250",VNM,Vietnam,"48",Quảng Ngãi,"518",Tây Trà,Huyện,District,,Tay Tra
+"250",VNM,Vietnam,"48",Quảng Ngãi,"519",Tư Nghĩa,Huyện,District,,Tu Nghia
+"250",VNM,Vietnam,"48",Quảng Ngãi,"520",Trà Bồng,Huyện,District,,Tra Bong
+"250",VNM,Vietnam,"49",Quảng Ninh,"521",Đông Triều,Huyện,District,,Dong Trieu
+"250",VNM,Vietnam,"49",Quảng Ninh,"522",Đầm Hà,Huyện,District,,Dam Ha
+"250",VNM,Vietnam,"49",Quảng Ninh,"523",Ba Chẽ,Huyện,District,,Ba Che
+"250",VNM,Vietnam,"49",Quảng Ninh,"524",Bình Liêu,Huyện,District,,Binh Lieu
+"250",VNM,Vietnam,"49",Quảng Ninh,"525",Cô Tô,Huyện,District,,Co To
+"250",VNM,Vietnam,"49",Quảng Ninh,"526",Cẩm Phả,Thi xa,Township,,
+"250",VNM,Vietnam,"49",Quảng Ninh,"527",Hạ Long,Than Pho,City,,Ha Long
+"250",VNM,Vietnam,"49",Quảng Ninh,"528",Hải Hà,Huyện,District,,Hai Ha
+"250",VNM,Vietnam,"49",Quảng Ninh,"529",Hoành Bồ,Huyện,District,,Hoanh Bo
+"250",VNM,Vietnam,"49",Quảng Ninh,"530",Móng Cái,Thi xa,Township,,Mong Cai
+"250",VNM,Vietnam,"49",Quảng Ninh,"531",Tiên Yên,Huyện,District,,Tien Yen
+"250",VNM,Vietnam,"49",Quảng Ninh,"532",Uông Bí,Thi xa,Township,,Uong Bi
+"250",VNM,Vietnam,"49",Quảng Ninh,"533",Vân Đồn,Huyện,District,,Van Don
+"250",VNM,Vietnam,"49",Quảng Ninh,"534",Yên Hưng,Huyện,District,,Yen Hung
+"250",VNM,Vietnam,"50",Quảng Trị,"535",Đa Krông,Huyện,District,,Da Krong
+"250",VNM,Vietnam,"50",Quảng Trị,"536",Đông Hà,Thi xa,Township,,Dong Ha
+"250",VNM,Vietnam,"50",Quảng Trị,"537",Cồn Cỏ,Island,Island,,Con Co
+"250",VNM,Vietnam,"50",Quảng Trị,"538",Cam Lộ,Huyện,District,,
+"250",VNM,Vietnam,"50",Quảng Trị,"539",Gio Linh,Huyện,District,,
+"250",VNM,Vietnam,"50",Quảng Trị,"540",Hướng Hóa,Huyện,District,,Huong Hoa
+"250",VNM,Vietnam,"50",Quảng Trị,"541",Hải Lăng,Huyện,District,,Hai Lang
+"250",VNM,Vietnam,"50",Quảng Trị,"542",Quảng Trị,Thi xa,Township,,Quang Tri Township
+"250",VNM,Vietnam,"50",Quảng Trị,"543",Triệu Phong,Huyện,District,,Trieu Phong
+"250",VNM,Vietnam,"50",Quảng Trị,"544",Vĩnh Linh,Huyện,District,,Vinh Linh
+"250",VNM,Vietnam,"51",Sóc Trăng,"545",Cù Lao Dung,Huyện,District,,Cu Lao Dung
+"250",VNM,Vietnam,"51",Sóc Trăng,"546",Châu Thành,Huyện,District,,Chau Thanh
+"250",VNM,Vietnam,"51",Sóc Trăng,"547",Kế Sách,Huyện,District,,Ke Sach
+"250",VNM,Vietnam,"51",Sóc Trăng,"548",Long My,Thi xa,Township,,
+"250",VNM,Vietnam,"51",Sóc Trăng,"549",Long Phú,Huyện,District,,Long Phu
+"250",VNM,Vietnam,"51",Sóc Trăng,"550",Mỹ Tú,Huyện,District,,My Tu
+"250",VNM,Vietnam,"51",Sóc Trăng,"551",Mỹ Xuyên,Huyện,District,,My Xuyen
+"250",VNM,Vietnam,"51",Sóc Trăng,"552",Ngã Năm,Huyện,District,,Nga Nam
+"250",VNM,Vietnam,"51",Sóc Trăng,"553",Thanh Trì,Huyện,District,,Thanh Tri
+"250",VNM,Vietnam,"51",Sóc Trăng,"554",Vĩnh Châu,Huyện,District,,Vinh Chau
+"250",VNM,Vietnam,"52",Sơn La,"555",Bắc Yên,Huyện,District,,Bac Yen
+"250",VNM,Vietnam,"52",Sơn La,"556",Mộc Châu,Huyện,District,,Moc Chau
+"250",VNM,Vietnam,"52",Sơn La,"557",Mường La,Huyện,District,,Muong La
+"250",VNM,Vietnam,"52",Sơn La,"558",Mai Sơn,Huyện,District,,Mai Son
+"250",VNM,Vietnam,"52",Sơn La,"559",Phù Yên,Huyện,District,,Phu Yen
+"250",VNM,Vietnam,"52",Sơn La,"560",Quỳnh Nhai,Huyện,District,,Quynh Nhai
+"250",VNM,Vietnam,"52",Sơn La,"561",Sông Mã,Huyện,District,,Song Ma
+"250",VNM,Vietnam,"52",Sơn La,"562",Sốp Cộp,Huyện,District,,Sop Cop
+"250",VNM,Vietnam,"52",Sơn La,"563",Sơn La,Thi xa,Township,,Son La
+"250",VNM,Vietnam,"52",Sơn La,"564",Thuận Châu,Huyện,District,,Thuan Chau
+"250",VNM,Vietnam,"52",Sơn La,"565",Yên Châu,Huyện,District,,Yen Chau
+"250",VNM,Vietnam,"53",Tây Ninh,"566",Bến Cầu,Huyện,District,,Ben Cau
+"250",VNM,Vietnam,"53",Tây Ninh,"567",Châu Thành,Huyện,District,,Chau Thanh
+"250",VNM,Vietnam,"53",Tây Ninh,"568",Dương Minh Châu,Huyện,District,,Duong Minh Chau
+"250",VNM,Vietnam,"53",Tây Ninh,"569",Gò Dầu,Huyện,District,,Go Dau
+"250",VNM,Vietnam,"53",Tây Ninh,"570",Hòa Thành,Huyện,District,,Hoa Thanh
+"250",VNM,Vietnam,"53",Tây Ninh,"571",Tân Biên,Huyện,District,,Tan Bien
+"250",VNM,Vietnam,"53",Tây Ninh,"572",Tân Châu,Huyện,District,,Tan Chau
+"250",VNM,Vietnam,"53",Tây Ninh,"573",Tây Ninh,Thi xa,Township,,Tay Ninh
+"250",VNM,Vietnam,"53",Tây Ninh,"574",Trảng Bàng,Huyện,District,,Trang Bang
+"250",VNM,Vietnam,"54",Thái Bình,"575",Đông Hưng,Huyện,District,,Dong Hung
+"250",VNM,Vietnam,"54",Thái Bình,"576",Hưng Hà,Huyện,District,,Hung Ha
+"250",VNM,Vietnam,"54",Thái Bình,"577",Kiến Xương,Huyện,District,,Kien Xuong
+"250",VNM,Vietnam,"54",Thái Bình,"578",Quỳnh Phụ,Huyện,District,,Quynh Phu
+"250",VNM,Vietnam,"54",Thái Bình,"579",Thái Bình,Thi xa,Township,,Thai Binh
+"250",VNM,Vietnam,"54",Thái Bình,"580",Thái Thụy,Huyện,District,,Thai Thuy
+"250",VNM,Vietnam,"54",Thái Bình,"581",Tiền Hải,Huyện,District,,Tien Hai
+"250",VNM,Vietnam,"54",Thái Bình,"582",Vũ Thư,Huyện,District,,Vu Thu
+"250",VNM,Vietnam,"55",Thái Nguyên,"583",Đồng Hỷ,Huyện,District,,Dong Hy
+"250",VNM,Vietnam,"55",Thái Nguyên,"584",Định Hoá,Huyện,District,,Dinh Hoa
+"250",VNM,Vietnam,"55",Thái Nguyên,"585",Đại Từ,Huyện,District,,Dai Tu
+"250",VNM,Vietnam,"55",Thái Nguyên,"586",Phổ Yên,Huyện,District,,Pho Yen
+"250",VNM,Vietnam,"55",Thái Nguyên,"587",Phú Bình,Huyện,District,,Phu Binh
+"250",VNM,Vietnam,"55",Thái Nguyên,"588",Phú Lương,Huyện,District,,Phu Luong
+"250",VNM,Vietnam,"55",Thái Nguyên,"589",Sông Công,Thi xa,Township,,Song Cong
+"250",VNM,Vietnam,"55",Thái Nguyên,"590",Thái Nguyên,Than Pho,City,,Thai Nguyen City
+"250",VNM,Vietnam,"55",Thái Nguyên,"591",Võ Nhai,Huyện,District,,Vo Nhai
+"250",VNM,Vietnam,"56",Thừa Thiên - Huế,"592",A Lưới,Huyện,District,,A Luoi
+"250",VNM,Vietnam,"56",Thừa Thiên - Huế,"593",Hương Thủy,Huyện,District,,Huong Thuy
+"250",VNM,Vietnam,"56",Thừa Thiên - Huế,"594",Hương Trà,Huyện,District,,Huong Tra
+"250",VNM,Vietnam,"56",Thừa Thiên - Huế,"595",Huế,Than Pho,City,,Hue City
+"250",VNM,Vietnam,"56",Thừa Thiên - Huế,"596",Nam Đông,Huyện,District,,Nam Dong
+"250",VNM,Vietnam,"56",Thừa Thiên - Huế,"597",Phú Lộc,Huyện,District,,Phu Loc
+"250",VNM,Vietnam,"56",Thừa Thiên - Huế,"598",Phú Vang,Huyện,District,,Phu Vang
+"250",VNM,Vietnam,"56",Thừa Thiên - Huế,"599",Phong Điền,Huyện,District,,Phong Dien
+"250",VNM,Vietnam,"56",Thừa Thiên - Huế,"600",Quảng Điền,Huyện,District,,Quang Dien
+"250",VNM,Vietnam,"57",Thanh Hóa,"601",Đông Sơn,Huyện,District,,Dong Son
+"250",VNM,Vietnam,"57",Thanh Hóa,"602",Bá Thước,Huyện,District,,Ba Thuoc
+"250",VNM,Vietnam,"57",Thanh Hóa,"603",Bim Son,Thi xa,Township,,
+"250",VNM,Vietnam,"57",Thanh Hóa,"604",Cẩm Thủy,Huyện,District,,Cam Thuy
+"250",VNM,Vietnam,"57",Thanh Hóa,"605",Hà Trung,Huyện,District,,Ha Trung
+"250",VNM,Vietnam,"57",Thanh Hóa,"606",Hậu Lộc,Huyện,District,,Hau Loc
+"250",VNM,Vietnam,"57",Thanh Hóa,"607",Hoằng Hóa,Huyện,District,,Hoang Hoa
+"250",VNM,Vietnam,"57",Thanh Hóa,"608",Lang Chánh,Huyện,District,,Lang Chanh
+"250",VNM,Vietnam,"57",Thanh Hóa,"609",Mường Lát,Huyện,District,,Muong Lat
+"250",VNM,Vietnam,"57",Thanh Hóa,"610",Nông Cống,Huyện,District,,Nong Cong
+"250",VNM,Vietnam,"57",Thanh Hóa,"611",Nga Sơn,Huyện,District,,Nga Son
+"250",VNM,Vietnam,"57",Thanh Hóa,"612",Ngọc Lạc,Huyện,District,,Ngoc Lac
+"250",VNM,Vietnam,"57",Thanh Hóa,"613",Như Thanh,Huyện,District,,Nhu Thanh
+"250",VNM,Vietnam,"57",Thanh Hóa,"614",Như Xuân,Huyện,District,,Nhu Xuan
+"250",VNM,Vietnam,"57",Thanh Hóa,"615",Quan Hóa,Huyện,District,,Quan Hoa
+"250",VNM,Vietnam,"57",Thanh Hóa,"616",Quan Sơn,Huyện,District,,Quan Son
+"250",VNM,Vietnam,"57",Thanh Hóa,"617",Quảng Xương,Huyện,District,,Quang Xuong
+"250",VNM,Vietnam,"57",Thanh Hóa,"618",Sầm Sơn,Thi xa,Township,,Sam Son
+"250",VNM,Vietnam,"57",Thanh Hóa,"619",Tĩnh Gia,Huyện,District,,Tinh Gia
+"250",VNM,Vietnam,"57",Thanh Hóa,"620",Thọ Xuân,Huyện,District,,Tho Xuan
+"250",VNM,Vietnam,"57",Thanh Hóa,"621",Thường Xuân,Huyện,District,,Thuong Xuan
+"250",VNM,Vietnam,"57",Thanh Hóa,"622",Thanh Hóa City,Than Pho,City,,Thanh Hoa
+"250",VNM,Vietnam,"57",Thanh Hóa,"623",Thạch Thành,Huyện,District,,Thach Thanh
+"250",VNM,Vietnam,"57",Thanh Hóa,"624",Thiệu Hóa,Huyện,District,,Thieu Hoa
+"250",VNM,Vietnam,"57",Thanh Hóa,"625",Triệu Sơn,Huyện,District,,Trieu Son
+"250",VNM,Vietnam,"57",Thanh Hóa,"626",Vĩnh Lộc,Huyện,District,,Vinh Loc
+"250",VNM,Vietnam,"57",Thanh Hóa,"627",Yên Định,Huyện,District,,Yen Dinh
+"250",VNM,Vietnam,"58",Tiền Giang,"628",Cái Bè,Huyện,District,,Cai Be
+"250",VNM,Vietnam,"58",Tiền Giang,"629",Cai Lậy,Huyện,District,,Cai Lay
+"250",VNM,Vietnam,"58",Tiền Giang,"630",Châu Thành,Huyện,District,,Chau Thanh
+"250",VNM,Vietnam,"58",Tiền Giang,"631",Chợ Gạo,Huyện,District,,Cho Gao
+"250",VNM,Vietnam,"58",Tiền Giang,"632",Gò Công Đông,Huyện,District,,Go Cong Dong
+"250",VNM,Vietnam,"58",Tiền Giang,"633",Gò Công Tây,Huyện,District,,Go Cong Tay
+"250",VNM,Vietnam,"58",Tiền Giang,"634",Go Cong,Thi xa,Township,,
+"250",VNM,Vietnam,"58",Tiền Giang,"635",Mỹ Tho,Than Pho,City,,My Tho City
+"250",VNM,Vietnam,"58",Tiền Giang,"636",Tân Phước,Huyện,District,,Tan Phuoc
+"250",VNM,Vietnam,"58",Tiền Giang,"637",Tân Phú Đông,Huyện,District,,
+"250",VNM,Vietnam,"59",Trà Vinh,"638",Càng Long,Huyện,District,,Cang Long
+"250",VNM,Vietnam,"59",Trà Vinh,"639",Cầu Kè,Huyện,District,,Cau Ke
+"250",VNM,Vietnam,"59",Trà Vinh,"640",Cầu Ngang,Huyện,District,,Cau Ngang
+"250",VNM,Vietnam,"59",Trà Vinh,"641",Châu Thành,Huyện,District,,Chau Thanh
+"250",VNM,Vietnam,"59",Trà Vinh,"642",Duyên Hải,Huyện,District,,Duyen Hai
+"250",VNM,Vietnam,"59",Trà Vinh,"643",Tiểu Cần,Huyện,District,,Tieu Can
+"250",VNM,Vietnam,"59",Trà Vinh,"644",Trà Cú,Huyện,District,,Tra Cu
+"250",VNM,Vietnam,"59",Trà Vinh,"645",Trà Vinh,Thi xa,Township,,Tra Vinh
+"250",VNM,Vietnam,"60",Tuyên Quang,"646",Chiêm Hoá,Huyện,District,,Chiem Hoa
+"250",VNM,Vietnam,"60",Tuyên Quang,"647",Hàm Yên,Huyện,District,,Ham Yen
+"250",VNM,Vietnam,"60",Tuyên Quang,"648",Nà Hang,Huyện,District,,Na Hang
+"250",VNM,Vietnam,"60",Tuyên Quang,"649",Sơn Dương,Huyện,District,,Son Duong
+"250",VNM,Vietnam,"60",Tuyên Quang,"650",Tuyên Quang,Thi xa,Township,,Tuyen Quang
+"250",VNM,Vietnam,"60",Tuyên Quang,"651",Yên Sơn,Huyện,District,,Yen Son
+"250",VNM,Vietnam,"61",Vĩnh Long,"652",Bình Minh,Huyện,District,,Binh Minh
+"250",VNM,Vietnam,"61",Vĩnh Long,"653",Bình Tân,Huyện,District,,
+"250",VNM,Vietnam,"61",Vĩnh Long,"654",Long Hồ,Huyện,District,,Long Ho
+"250",VNM,Vietnam,"61",Vĩnh Long,"655",Mang Thít,Huyện,District,,Mang Thit
+"250",VNM,Vietnam,"61",Vĩnh Long,"656",Tam Bình,Huyện,District,,Tam Binh
+"250",VNM,Vietnam,"61",Vĩnh Long,"657",Trà Ôn,Huyện,District,,Tra on
+"250",VNM,Vietnam,"61",Vĩnh Long,"658",Vũng Liêm,Huyện,District,,Vung Liem
+"250",VNM,Vietnam,"61",Vĩnh Long,"659",Vĩnh Long,Thi xa,Township,,Vinh Long
+"250",VNM,Vietnam,"62",Vĩnh Phúc,"660",Bình Xuyên,Huyện,District,,Binh Xuyen
+"250",VNM,Vietnam,"62",Vĩnh Phúc,"661",Lập Thạch,Huyện,District,,Lap Thach
+"250",VNM,Vietnam,"62",Vĩnh Phúc,"662",Mê Linh,Huyện,District,,Me Linh
+"250",VNM,Vietnam,"62",Vĩnh Phúc,"663",Phúc Yên,Thi xa,Township,,Phuc Yen
+"250",VNM,Vietnam,"62",Vĩnh Phúc,"664",Tam Đường,Huyện,District,,Tam Duong
+"250",VNM,Vietnam,"62",Vĩnh Phúc,"665",Tam Đảo,Huyện,District,,
+"250",VNM,Vietnam,"62",Vĩnh Phúc,"666",Tam Dao,Huyện,District,,
+"250",VNM,Vietnam,"62",Vĩnh Phúc,"667",Vĩnh Tường,Huyện,District,,Vinh Tuong
+"250",VNM,Vietnam,"62",Vĩnh Phúc,"668",Vĩnh Yên,Thi xa,Township,,Vinh Yen
+"250",VNM,Vietnam,"62",Vĩnh Phúc,"669",Yên Lạc,Huyện,District,,Yen Lac
+"250",VNM,Vietnam,"63",Yên Bái,"670",Lục Yên,Huyện,District,,Luc Yen
+"250",VNM,Vietnam,"63",Yên Bái,"671",Mù Căng Trai,Huyện,District,,Mu Cang Chai
+"250",VNM,Vietnam,"63",Yên Bái,"672",Nghĩa Lộ,Thi xa,Township,,Nghia Lo
+"250",VNM,Vietnam,"63",Yên Bái,"673",Trạm Tấu,Huyện,District,,Tram Tau
+"250",VNM,Vietnam,"63",Yên Bái,"674",Trấn Yên,Huyện,District,,Tran Yen
+"250",VNM,Vietnam,"63",Yên Bái,"675",Văn Chấn,Huyện,District,,
+"250",VNM,Vietnam,"63",Yên Bái,"676",Văn Yên,Huyện,District,,Van Yen
+"250",VNM,Vietnam,"63",Yên Bái,"677",Yên Bái,Huyện,District,,Yen Bai
+"250",VNM,Vietnam,"63",Yên Bái,"678",Yên Bình,Huyện,District,,Yen Binh
