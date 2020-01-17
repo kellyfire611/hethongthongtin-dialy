@@ -51,9 +51,9 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="index.php">Trang chủ</a></li>
-           <li><a href="../tourdulich/View/searchTourDuLich.php">Tìm Tour du lịch</a></li>
-           <li><a href="../tourdulich/View/searchDTQByDacSan.php">Tìm Đặc sản</a></li>
-            <li><a href="../tourdulich/View/thongke_tomau.php">Thống kê</a></li>
+           <li><a href="/View/searchTourDuLich.php">Tìm Tour du lịch</a></li>
+           <li><a href="/View/searchDTQByDacSan.php">Tìm Đặc sản</a></li>
+            <li><a href="/View/thongke_tomau.php">Thống kê</a></li>
           <li class="menu-has-children"><a href="">Quản lý</a>
             <ul>
               <li><a href="index.php?xem=dacsan">Đặc sản</a></li>
@@ -103,10 +103,21 @@
   ============================-->
   <footer id="footer">
     <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong> Lê Thị Hồng Chiêu </strong></br>
-                           <strong>Phan Thị Thúy Kiều</strong><br>
-                             <strong>Nguyễn Hoàng Thái</strong>
+      <div class="row">
+        <div class="col-md-6">
+          <h6>Giảng viên Hướng dẫn</h6>
+          <span style="font-weight: bold;">TS. Trương Quốc Định</span>
+        </div>
+        <div class="col-md-6">
+          <h6>Danh sách Nhóm</h6>
+          <ul>
+            <li>M2518007 - Lưu Hoài Sang</li>
+            <li>M2518001 - Dương Nguyễn Phú Cường</li>
+            <li>M2518010 - Tống Kim Anh Dũng</li>
+            <li>M2518006 - Mai Thị Cẩm Nhung</li>
+            <li>M25180.. - Đàm Quang Viễn</li>
+          </ul>
+        </div>
       </div>
     </div>
   </footer><!-- #footer -->

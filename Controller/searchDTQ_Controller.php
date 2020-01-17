@@ -4,7 +4,7 @@
       $dacsan =  addslashes($_POST['dacsan']);
       $servername = "localhost";
       $username = "root";
-      $password = "";
+      $password = "root";
       $dbname = "quanlytourdulich";
 
       $jsondiemthamquan = [];
